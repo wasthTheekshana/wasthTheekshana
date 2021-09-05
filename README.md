@@ -35,9 +35,7 @@
 <p align="center">
 <a href="https://github.com/wasthTheekshana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasthTheekshana&show_icons=true&include_all_commits=true&theme=material-palenight" alt="wasthTheekshana github stats" />
-</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/wasthTheekshana/github-readme-stats">
+</a><a href="https://github.com/wasthTheekshana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
 </a>
 </p>
