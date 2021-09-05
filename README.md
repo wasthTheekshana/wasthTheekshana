@@ -1,1 +1,1 @@
-<h3 align="center"🤖 Hello! Warriors.</h3>
+<h3 align="center">👋 Hello! Warriors.</h3>
